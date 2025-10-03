@@ -186,8 +186,8 @@ h6,
 }
 
 .hero-header {
-  background: linear-gradient(rgba(9, 30, 62, 0.85), rgba(9, 30, 62, 0.85)),
-    url(../images/invest-1.jpg) center center no-repeat;
+  background: linear-gradient(135deg, rgb(9, 59, 69), rgba(5, 65, 77, 0.7)),
+    url(../images/migrant-1.jpg) center center no-repeat;
   background-size: cover;
 }
 
