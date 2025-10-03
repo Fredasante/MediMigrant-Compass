@@ -505,5 +505,5 @@ h6,
 .btn-outline-secondary:hover {
   background-color: #722f37;
   color: white;
-  transform: translateY(-2px);
+  border: none;
 }
