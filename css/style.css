@@ -377,6 +377,11 @@ h6,
   color: var(--primary) !important;
 }
 
+.btn-primary {
+  background: var(--primary) !important;
+  border: #015e70;
+}
+
 .btn-primary:hover {
   background: var(--primary);
   border: #015e70;
@@ -462,6 +467,16 @@ h6,
   color: #fff;
   border: none;
   padding: 8px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: #015e70;
+  color: #fff;
+  border: none;
+  padding: 8px 20px;
   border-radius: 8px;
   font-weight: 600;
   transition: all 0.3s ease;
