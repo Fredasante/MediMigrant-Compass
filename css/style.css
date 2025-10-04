@@ -507,3 +507,24 @@ h6,
   color: white;
   border: none;
 }
+
+.bg-primary {
+  background-color: #187e93 !important;
+}
+
+/*** Service ***/
+.service-item {
+  background: var(--light);
+  transition: 0.5s;
+}
+
+.service-item * {
+  transition: 0.5s;
+}
+
+.service-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
