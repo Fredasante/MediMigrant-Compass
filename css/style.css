@@ -126,7 +126,7 @@ h6,
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(135deg, rgb(9, 59, 69), rgba(5, 65, 77, 0.7));
+  background: linear-gradient(135deg, rgb(13, 59, 68), rgba(5, 65, 77, 0.7));
   z-index: 1;
 }
 
@@ -329,7 +329,7 @@ h6,
 
 @media (max-width: 768px) {
   .logo {
-    width: 70px;
+    width: 72px;
   }
 }
 
