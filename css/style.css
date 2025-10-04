@@ -329,7 +329,7 @@ h6,
 
 @media (max-width: 768px) {
   .logo {
-    width: 85px;
+    width: 70px;
   }
 }
 
@@ -356,7 +356,7 @@ h6,
 
 #header-carousel .carousel-item {
   position: relative;
-  height: 87vh;
+  height: 87h;
 }
 
 @media (max-width: 1000px) {
