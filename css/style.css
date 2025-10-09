@@ -547,3 +547,17 @@ h6,
 .support-card:hover {
   box-shadow: 0 8px 25px rgba(114, 47, 55, 0.15) !important;
 }
+
+.resource-card {
+  transition: all 0.3s ease;
+  border-radius: 15px;
+}
+
+.resource-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(114, 47, 55, 0.15) !important;
+}
+
+.resource-icon {
+  min-width: 40px;
+}
