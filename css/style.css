@@ -561,3 +561,21 @@ h6,
 .resource-icon {
   min-width: 40px;
 }
+
+.gallery-item {
+  width: 100%;
+  height: 250px; /* fixed height */
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ensures consistent aspect ratio */
+  transition: transform 0.3s ease;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.05);
+}
