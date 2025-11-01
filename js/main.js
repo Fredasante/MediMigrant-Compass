@@ -117,7 +117,7 @@ const blogPosts = [
       "Empowering Communities Through Health and Education - January 2024 Outreach in North Dayi",
     date: "15 Jan, 2024",
     author: "MediMigrant Team",
-    image: "images/blog-post-1.png", // main image
+    image: "images/blog-post-1.png",
     images: [
       "images/blog-post-1.png",
       "images/blog-post-1b.png",
@@ -134,7 +134,7 @@ const blogPosts = [
       "Empowering Rural Health: First Aid Volunteer Training in North Dayi",
     date: "10 Jan, 2024",
     author: "MediMigrant Team",
-    image: "images/blog-post-2.png", // main image
+    image: "images/blog-post-2.png",
     images: [
       "images/blog-post-2e.png",
       "images/blog-post-2b.png",
@@ -145,6 +145,22 @@ const blogPosts = [
     excerpt:
       "Since 2019, MediMigrant Compass e.V Deutschland, in partnership with EuroAfric Therapy Tour - Deutschland, has been actively supporting underserved communities in Ghana's North Dayi Constituency through targeted healthcare interventions.",
     link: "/news/empowering-rural-health-north-dayi.html",
+  },
+  {
+    title:
+      "Building Sustainable Futures: Health Education and Water Access Initiative in Volta Region",
+    date: "05 Dec, 2023",
+    author: "MediMigrant Team",
+    image: "images/gallery-5.jpg",
+    images: [
+      "images/blog-post-3.png",
+      "images/blog-post-3b.png",
+      "images/blog-post-3c.png",
+    ],
+    alt: "Community water and health education project",
+    excerpt:
+      "MediMigrant Compass e.V launched a combined health education and clean water project in the Volta Region, aiming to reduce preventable diseases and improve long-term community wellbeing through safe water access and public health training.",
+    link: "/news/health-education-water-access-volta.html",
   },
 ];
 
